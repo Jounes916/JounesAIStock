@@ -36,7 +36,7 @@ JounesAIStock 是基于 **大语言模型 (LLM)** 驱动的智能量化股票交
 
 | 下载渠道 | 链接 |
 |---------|------|
-| 🚀 迅雷网盘 | [点击下载](https://pan.xunlei.com/s/VOyHjUpvA0m3HHAPbXP9xNyqA1?pwd=maib) |
+| 🚀 迅雷网盘 | [点击下载](https://pan.xunlei.com/s/VOyqIGVjngxgM9QaOuf0IXAEA1?pwd=9r6w) |
 | 🎯 GitHub Releases | [点击下载](https://github.com/Jounes916/JounesAIStock/releases/download/V8.8.8/JounesAIStock.exe) |
 
 ### 快速上手
