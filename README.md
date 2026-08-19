@@ -6,7 +6,7 @@
 > AI助力，涨了你去吹牛
 
 
-🌐 **官方网站：[https://mellifluous-eclair-5e79f7.netlify.app/](https://mellifluous-eclair-5e79f7.netlify.app/)**
+🌐 **官方网站：[价值百万年薪的AI交易员现在为你免费打工](https://willowy-gnome-38ac88.netlify.app/)**
 
 ---
 
