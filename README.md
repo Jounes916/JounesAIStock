@@ -1,14 +1,10 @@
-# 📈 JounesAIStock
+# 📈 JounesAIStock-价值百万的交易员
 
-**你的专属 AI 交易员，7×24 小时自动操盘**
+**你的专属AI交易员，7×24 小时自动操盘。**
+**一句话介绍就是：印钞机**
 
 > AI助力，涨了你去吹牛
 
----
-
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=Windows&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green?style=flat-square)
 
 🌐 **官方网站：[https://mellifluous-eclair-5e79f7.netlify.app/](https://mellifluous-eclair-5e79f7.netlify.app/)**
 
@@ -16,11 +12,11 @@
 
 ## 🚀 项目介绍
 
-JounesAIStock 是基于 **大语言模型 (LLM)** 驱动的智能量化股票交易模拟平台，让 AI 像专业交易员一样，7×24 小时为你自动操盘！
+JounesAIStock 是基于 **最新大语言模型 (LLM)** 驱动的智能股票交易模拟平台，让AI像专业交易员一样，7×24 小时为你自动操盘！
 
 ## ✨ 核心功能
 
-- 🤖 **AI 智能决策** - 支持 OpenAI、Claude、通义千问、DeepSeek 等主流大模型，自主分析市场、选择标的、执行交易
+- 🤖 **AI 智能决策** - 支持 OpenAI格式所有主流大模型，自主分析市场、选择标的、执行交易
 
 - 📰 **实时资讯整合** - 自动搜索和分析财经新闻、行业动态，AI 会根据最新信息做出投资决策，还能看完整的 AI 思考过程！
 
@@ -47,16 +43,9 @@ JounesAIStock 是基于 **大语言模型 (LLM)** 驱动的智能量化股票交
 4. 在AI配置中设置你的API接口地址和模型
 5. 点击启动AI，让AI开始交易之旅！
 
-### 密码获取
+### 授权码获取
 
-📱 密钥获取 - 联系作者VX：Jounes_0916
-
-## 🛠️ 技术栈
-
-- **核心语言**: Python
-- **GUI 框架**: PyQt5
-- **数据可视化**: Matplotlib
-- **打包发布**: PyInstaller
+🚀 授权码获取方式及联系客服：需求+手机号+申请码，发邮件至JounesAl@foxmail.com
 
 ## ⚠️ 免责声明
 
